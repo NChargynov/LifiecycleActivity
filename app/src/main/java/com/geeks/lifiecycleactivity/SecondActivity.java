@@ -41,7 +41,6 @@ public class SecondActivity extends AppCompatActivity {
         imageView = findViewById(R.id.image);
 
         imageView.setOnClickListener(view -> {
-            openUrl();
         });
     }
 
